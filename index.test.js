@@ -10,6 +10,7 @@ describe('[Exercise 1] trimProperties', () => {
   })
   it('[2] returns a copy, leaving the original object intact', () => {
     // ✨ test away
+    
   })
 })
 
